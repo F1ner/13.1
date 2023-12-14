@@ -1,0 +1,8 @@
+E:\AbabiySiglov\Ababiy&Siglov13.1(1)\bin\Debug\Ababiy&Siglov13.1(1).exe.config
+E:\AbabiySiglov\Ababiy&Siglov13.1(1)\bin\Debug\Ababiy&Siglov13.1(1).exe
+E:\AbabiySiglov\Ababiy&Siglov13.1(1)\bin\Debug\Ababiy&Siglov13.1(1).pdb
+E:\AbabiySiglov\Ababiy&Siglov13.1(1)\obj\Debug\Ababiy&Siglov13.1(1).csproj.AssemblyReference.cache
+E:\AbabiySiglov\Ababiy&Siglov13.1(1)\obj\Debug\Ababiy&Siglov13.1(1).csproj.SuggestedBindingRedirects.cache
+E:\AbabiySiglov\Ababiy&Siglov13.1(1)\obj\Debug\Ababiy&Siglov13.1(1).csproj.CoreCompileInputs.cache
+E:\AbabiySiglov\Ababiy&Siglov13.1(1)\obj\Debug\Ababiy&Siglov13.1(1).exe
+E:\AbabiySiglov\Ababiy&Siglov13.1(1)\obj\Debug\Ababiy&Siglov13.1(1).pdb

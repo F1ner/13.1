@@ -1,0 +1,82 @@
+﻿using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+
+namespace Ababiy_Siglov13._1_1_
+{
+    /// <summary>
+    /// Класс описывающий студента
+    /// </summary>
+    internal class Student
+    {
+        /// <summary>
+        /// поле описывающее фамилию
+        /// </summary>
+        private string fam;
+        /// <summary>
+        /// поле описывающее курс
+        /// </summary>
+        private int kurs;
+        /// <summary>
+        /// свойство для поля описывающего фамилию
+        /// </summary>
+        public string Fam
+        {
+            
+
+            get 
+            {
+             return (fam!="" )?fam:"Неизвестно";    
+            }
+            set { fam = value.ToUpper(); }
+
+
+
+        }
+        /// <summary>
+        /// свойство для поля описывающего курс
+        /// </summary>
+        public int Kurs { 
+            set 
+            {
+                //if (value < 1 || value > 4)
+
+                //    Console.WriteLine("Такого курса не бывает");
+
+                //else
+
+                //    kurs = value;
+
+                kurs=(value<1||value>4)?0:value;
+
+            }
+            get { return kurs; }
+        }
+        /// <summary>
+        /// конструктор по умолчанию
+        /// </summary>
+
+        public Student() { }
+        /// <summary>
+        /// конструктор с парметрами
+        /// </summary>
+        /// <param name="fam">фамилия</param>
+        /// <param name="kurs">курс</param>
+        public Student(string fam, int kurs)
+        {
+            this.Fam = fam;
+            this.Kurs = kurs;
+        }
+        /// <summary>
+        /// метод для вывода информации
+        /// </summary>
+        /// <returns>поля fam kurs</returns>
+        public override string ToString()
+        {
+            return $"Фамилия-{fam}\tKurs-{kurs}";
+        }
+
+    }
+}
