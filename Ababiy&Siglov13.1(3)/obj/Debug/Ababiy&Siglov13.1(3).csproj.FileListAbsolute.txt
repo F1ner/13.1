@@ -1,0 +1,7 @@
+E:\215 AbabiySiglov\Ababiy&Siglov13.1(3)\bin\Debug\Ababiy&Siglov13.1(3).exe.config
+E:\215 AbabiySiglov\Ababiy&Siglov13.1(3)\bin\Debug\Ababiy&Siglov13.1(3).exe
+E:\215 AbabiySiglov\Ababiy&Siglov13.1(3)\bin\Debug\Ababiy&Siglov13.1(3).pdb
+E:\215 AbabiySiglov\Ababiy&Siglov13.1(3)\obj\Debug\Ababiy&Siglov13.1(3).csproj.AssemblyReference.cache
+E:\215 AbabiySiglov\Ababiy&Siglov13.1(3)\obj\Debug\Ababiy&Siglov13.1(3).csproj.CoreCompileInputs.cache
+E:\215 AbabiySiglov\Ababiy&Siglov13.1(3)\obj\Debug\Ababiy&Siglov13.1(3).exe
+E:\215 AbabiySiglov\Ababiy&Siglov13.1(3)\obj\Debug\Ababiy&Siglov13.1(3).pdb
